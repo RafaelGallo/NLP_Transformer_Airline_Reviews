@@ -28,6 +28,8 @@
 ![NLP](https://img.shields.io/badge/Task-NLP%20Sentiment%20Analysis-blueviolet)
 ![Sentiment](https://img.shields.io/badge/Classes-Negative%20%7C%20Neutral%20%7C%20Positive-informational)
 
+![](https://github.com/RafaelGallo/NLP_Transformer_Airline_Reviews/blob/main/imgs/log.png?raw=true)
+
 ## Business Problem
 
 The global aviation industry processes millions of passenger reviews annually
